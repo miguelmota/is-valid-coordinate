@@ -1,0 +1,30 @@
+{
+  "name": "is-valid-coordinate",
+  "version": "0.0.1",
+  "description": "Validate coordinate",
+  "main": "is-valid-coordinate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-valid-coordinate"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "coordinate"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-valid-coordinate/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-valid-coordinate",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}

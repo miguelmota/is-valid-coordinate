@@ -1,0 +1,23 @@
+{
+  "name": "is-valid-coordinate",
+  "main": "is-valid-coordinate.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-valid-coordinate",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Validate coordinate",
+  "keywords": [
+    "validate",
+    "validator",
+    "coordinate"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
